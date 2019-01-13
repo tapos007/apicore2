@@ -1,0 +1,14 @@
+C:\Users\R041705033\source\repos\RAPS_SME\IdentityServerFinal\bin\Debug\netcoreapp2.1\IdentityServerFinal.deps.json
+C:\Users\R041705033\source\repos\RAPS_SME\IdentityServerFinal\bin\Debug\netcoreapp2.1\IdentityServerFinal.runtimeconfig.json
+C:\Users\R041705033\source\repos\RAPS_SME\IdentityServerFinal\bin\Debug\netcoreapp2.1\IdentityServerFinal.runtimeconfig.dev.json
+C:\Users\R041705033\source\repos\RAPS_SME\IdentityServerFinal\bin\Debug\netcoreapp2.1\IdentityServerFinal.dll
+C:\Users\R041705033\source\repos\RAPS_SME\IdentityServerFinal\bin\Debug\netcoreapp2.1\IdentityServerFinal.pdb
+C:\Users\R041705033\source\repos\RAPS_SME\IdentityServerFinal\obj\Debug\netcoreapp2.1\IdentityServerFinal.csprojResolveAssemblyReference.cache
+C:\Users\R041705033\source\repos\RAPS_SME\IdentityServerFinal\obj\Debug\netcoreapp2.1\IdentityServerFinal.csproj.CoreCompileInputs.cache
+C:\Users\R041705033\source\repos\RAPS_SME\IdentityServerFinal\obj\Debug\netcoreapp2.1\IdentityServerFinal.RazorAssemblyInfo.cache
+C:\Users\R041705033\source\repos\RAPS_SME\IdentityServerFinal\obj\Debug\netcoreapp2.1\IdentityServerFinal.RazorAssemblyInfo.cs
+C:\Users\R041705033\source\repos\RAPS_SME\IdentityServerFinal\obj\Debug\netcoreapp2.1\IdentityServerFinal.AssemblyInfoInputs.cache
+C:\Users\R041705033\source\repos\RAPS_SME\IdentityServerFinal\obj\Debug\netcoreapp2.1\IdentityServerFinal.AssemblyInfo.cs
+C:\Users\R041705033\source\repos\RAPS_SME\IdentityServerFinal\obj\Debug\netcoreapp2.1\IdentityServerFinal.RazorTargetAssemblyInfo.cache
+C:\Users\R041705033\source\repos\RAPS_SME\IdentityServerFinal\obj\Debug\netcoreapp2.1\IdentityServerFinal.dll
+C:\Users\R041705033\source\repos\RAPS_SME\IdentityServerFinal\obj\Debug\netcoreapp2.1\IdentityServerFinal.pdb

@@ -1,0 +1,11 @@
+C:\Users\R041705033\source\repos\RAPS_SME\RAPS.SMS.DLL\bin\Debug\netcoreapp2.1\RAPS.SMS.DLL.deps.json
+C:\Users\R041705033\source\repos\RAPS_SME\RAPS.SMS.DLL\bin\Debug\netcoreapp2.1\RAPS.SMS.DLL.runtimeconfig.json
+C:\Users\R041705033\source\repos\RAPS_SME\RAPS.SMS.DLL\bin\Debug\netcoreapp2.1\RAPS.SMS.DLL.runtimeconfig.dev.json
+C:\Users\R041705033\source\repos\RAPS_SME\RAPS.SMS.DLL\bin\Debug\netcoreapp2.1\RAPS.SMS.DLL.dll
+C:\Users\R041705033\source\repos\RAPS_SME\RAPS.SMS.DLL\bin\Debug\netcoreapp2.1\RAPS.SMS.DLL.pdb
+C:\Users\R041705033\source\repos\RAPS_SME\RAPS.SMS.DLL\obj\Debug\netcoreapp2.1\RAPS.SMS.DLL.csprojResolveAssemblyReference.cache
+C:\Users\R041705033\source\repos\RAPS_SME\RAPS.SMS.DLL\obj\Debug\netcoreapp2.1\RAPS.SMS.DLL.csproj.CoreCompileInputs.cache
+C:\Users\R041705033\source\repos\RAPS_SME\RAPS.SMS.DLL\obj\Debug\netcoreapp2.1\RAPS.SMS.DLL.AssemblyInfoInputs.cache
+C:\Users\R041705033\source\repos\RAPS_SME\RAPS.SMS.DLL\obj\Debug\netcoreapp2.1\RAPS.SMS.DLL.AssemblyInfo.cs
+C:\Users\R041705033\source\repos\RAPS_SME\RAPS.SMS.DLL\obj\Debug\netcoreapp2.1\RAPS.SMS.DLL.dll
+C:\Users\R041705033\source\repos\RAPS_SME\RAPS.SMS.DLL\obj\Debug\netcoreapp2.1\RAPS.SMS.DLL.pdb
